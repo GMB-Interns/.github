@@ -1,5 +1,9 @@
 ## Hi there 👋 this is the GMB Public Intern and Training Org for GetMotivatedBuddies Developer and Data Science Teams
 
+If this is your first time here, please go to the demo repository and follow the steps in the Project to submit your introduction.
+
+https://github.com/orgs/GMB-Interns/projects/1
+
 # https://gmb-interns.github.io
 <!--
 
